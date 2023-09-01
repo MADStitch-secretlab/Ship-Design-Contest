@@ -1,4 +1,5 @@
 # Ship-Design-Contest
+
 # 선박설계 콘테스트에서 인공지능을 활용하여 선박의 최적 제원을 도출
 
 # Holtrop and mennen equation을 통해 선박의 최소 저항을 가진 제원 도출
